@@ -370,6 +370,10 @@ svg path, svg circle {
     clear:both;
 }
 
+section .heroWrapper {
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
 
 
 
